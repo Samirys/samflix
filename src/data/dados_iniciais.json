@@ -1,0 +1,155 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "(Porque é a base para tudo aqui) - Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Danças",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "Para quem curte coreografias",
+        "url": "https://www.youtube.com/watch?v=Gj8f-efFo24&list=PLQqzqgfDyA3IJSm0iUmkHQTyhU4K08z3u&index=5"
+      },
+      "videos": [
+        {
+          "titulo": "Coreografia da Música - Give It To Me",
+          "url": "https://www.youtube.com/watch?v=Gj8f-efFo24&list=PLQqzqgfDyA3IJSm0iUmkHQTyhU4K08z3u&index=5"
+        },
+        {
+          "titulo": "Coreografia da Música - Kiss kiss",
+          "url": "https://www.youtube.com/watch?v=MK7ZENk-9Hk&list=PLQqzqgfDyA3IJSm0iUmkHQTyhU4K08z3u&index=4"
+        },
+        {
+          "titulo": "Coreografia da Música - I did",
+          "url": "https://www.youtube.com/watch?v=HuI2bIYjxtM&list=PLQqzqgfDyA3IJSm0iUmkHQTyhU4K08z3u&index=7"
+        },
+        {
+          "titulo": "Coreografia da Música - Say it again",
+          "url": "https://www.youtube.com/watch?v=JLektHtLzs8&list=PLQqzqgfDyA3IJSm0iUmkHQTyhU4K08z3u&index=9"
+        }, 
+        {
+          "titulo": "Coreografia da Música - Birthday Sex",
+          "url": "https://www.youtube.com/watch?v=d2lyjlrZ-5g&list=PLQqzqgfDyA3IJSm0iUmkHQTyhU4K08z3u&index=1"
+        }
+      ]
+    },
+    {
+      "titulo": "Receitas",
+      "cor": "#D2691E",
+      "link_extra": {
+        "text": "Mudando o cardápio para além do miojo",
+        "url": "https://www.youtube.com/playlist?list=PLpUs89aC5iYSfn0PGWLbyKrR5g-NLg3WY"
+      },
+      "videos": [
+        {
+          "titulo": "O prato principal",
+          "url": "https://www.youtube.com/watch?v=cNuf6HXk7BU"
+        },
+        {
+          "titulo": "O secundário",
+          "url": "https://www.youtube.com/watch?v=ClB0hyNcy3o"
+        },
+        {
+          "titulo": "A mistura",
+          "url": "https://www.youtube.com/watch?v=cMQmlrTDh_Y&list=PLpUs89aC5iYSfn0PGWLbyKrR5g-NLg3WY&index=1"
+        },
+        {
+          "titulo": "O incremento para fechar o seu PF",
+          "url": "https://www.youtube.com/watch?v=x7njQWhBpnc&list=PLpUs89aC5iYSfn0PGWLbyKrR5g-NLg3WY&index=6&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
